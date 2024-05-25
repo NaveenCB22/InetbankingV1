@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report theme -->
+        <theme>dark</theme>
+        
+        <!-- Document title -->
+        <documentTitle>InetBanking Test Project</documentTitle>
+        
+        <!-- Report name -->
+        <reportName>Functional Test Automation Report</reportName>
+        
+        <!-- Chart location -->
+        <testViewChartLocation>top</testViewChartLocation>
+    </configuration>
+</extentreports>
