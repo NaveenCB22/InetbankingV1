@@ -1,7 +1,9 @@
 com\Inetbanking\pageObjects\AddCustomerPage.class
 com\Inetbanking\pageObjects\LoginPage.class
 com\Inetbanking\utilities\Reporting.class
+com\Inetbanking\pageObjects\EditCustomerform.class
 com\Inetbanking\testCases\TC_AddCustomerTest_003.class
+com\Inetbanking\testCases\TC_EditcustomerformTest_004.class
 com\Inetbanking\utilities\ReadConfig.class
 com\Inetbanking\testCases\TC_LoginDDT_002.class
 com\Inetbanking\testCases\BaseClass.class

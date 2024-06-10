@@ -32,9 +32,11 @@ public class AddCustomerPage {
 	@CacheLookup
 	WebElement txtdob;
 	
-	@FindBy(how=How.NAME, using="addr")
+	@FindBy(how=How.NAME, using="addr")  
 	@CacheLookup
 	WebElement txtaddress;
+	
+	
 	
 	@FindBy(how=How.NAME, using="city")
 	@CacheLookup
